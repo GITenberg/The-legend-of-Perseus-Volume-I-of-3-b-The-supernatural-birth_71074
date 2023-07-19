@@ -1,0 +1,27 @@
+_repo: The-legend-of-Perseus-Volume-I-of-3-b-The-supernatural-birth_71074
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hartland, Edwin Sidney
+    birthdate: 1848
+    deathdate: 1927
+    gutenberg_agent_id: '26617'
+    url: http://www.gutenberg.org/2009/agents/26617
+description: ''
+gutenberg_issued: '2023-06-30'
+identifiers:
+  gutenberg: '71074'
+language: en
+pgterms:marc904: https://archive.org/details/legendofperseuss01hart/
+pgterms:marc905: 20230627123930hartland
+pgterms:marc906: '1894'
+pgterms:marc907: gb
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aUnited Kingdom :$bDavid Nutt in the Strand, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The legend of Perseus, Volume I (of 3) : $b The supernatural birth'
+url: http://www.gutenberg.org/ebooks/71074
