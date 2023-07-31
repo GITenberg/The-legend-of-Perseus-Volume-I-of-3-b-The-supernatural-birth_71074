@@ -1,5 +1,8 @@
 _repo: The-legend-of-Perseus-Volume-I-of-3-b-The-supernatural-birth_71074
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71074-h/images/cover.jpg
 creator:
   author:
     agent_name: Hartland, Edwin Sidney
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '26617'
     url: http://www.gutenberg.org/2009/agents/26617
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71074#The-legend-of-Perseus-Volume-I-of-3-b-The-supernatural-birth
 gutenberg_issued: '2023-06-30'
 identifiers:
   gutenberg: '71074'
